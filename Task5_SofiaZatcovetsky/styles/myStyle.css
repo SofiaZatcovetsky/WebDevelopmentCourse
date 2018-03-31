@@ -1,0 +1,39 @@
+body 
+{
+    direction:rtl;
+    font-family:Alef;
+}
+#container {
+    background-color: #3bcfff;
+    justify-content: center;
+    border: 5px solid #3bcfff;
+    color: #5e3092;
+    padding-right: 20px;
+    text-align: center;
+    border-bottom:none;
+}
+h1{
+    font-size:xx-large;
+}
+ul {
+    list-style-type: none;
+}
+form {
+    margin: 0 auto;
+    width: 300px;
+    margin-bottom:10px;
+}
+#Send {
+    border: 2px solid #ef5a22;
+    width: 200px;
+    font-size: medium;
+    background-color: #3bcfff;
+    color: #1b1b1b;
+}
+    #Send:hover {
+        width:220px;
+        background-color: #ef5a22;
+    }
+    #Send:active {
+        color:#fffdfa;
+    }
